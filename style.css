@@ -1,6 +1,21 @@
-#greeting {
+header {
     padding-top: 50px;
 }
+
+section {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.picture {
+    border-radius: 50px;
+}
+
+#selfie {
+    padding-bottom: 20px;
+}
+
+
 
 
 
