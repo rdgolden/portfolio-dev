@@ -1,19 +1,49 @@
-header {
-    padding-top: 50px;
-}
-
-section {
-    padding-top: 20px;
+#selfie {
     padding-bottom: 20px;
-}
-
-.picture {
     border-radius: 50px;
 }
 
-#selfie {
-    padding-bottom: 20px;
+#greeting {
+    padding-top: 50px;
+    padding-left: 50px;
 }
+
+.krog{
+    height: 100%; 
+    width: 100%; 
+    object-fit: contain;
+}
+
+#krogcontainer{
+    height: 500px;
+}
+
+#krogtunnel{
+    background: url(./assets/krogtunnel.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#emailbtn{
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+
+#helloline{
+    margin-top: 40px;
+}
+
+
+#aboutme{
+    padding-top:20px; 
+}
+
+#aboutcontain{
+    padding-bottom: 40px;
+}
+
 
 
 
