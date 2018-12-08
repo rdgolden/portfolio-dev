@@ -53,9 +53,26 @@
     border-radius: 10px;
 }
 
+#work{
+    background: url(./assets/atlsky.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: 0px 20px;
+}
+
 footer{
     height: 20px;
+    background: url(./assets/atldark.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: 0px 20px;
 }
+
+
 
 
 
