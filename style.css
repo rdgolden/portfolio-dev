@@ -38,7 +38,7 @@
 
 
 #aboutme{
-    padding-top:20px; 
+    padding-top:40px; 
 }
 
 #aboutcontain{
@@ -63,7 +63,7 @@
 }
 
 footer{
-    height: 20px;
+
     background: url(./assets/atldark.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
